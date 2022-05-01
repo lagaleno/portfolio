@@ -1,13 +1,34 @@
 const info = [
     {
-        img: 'images/icon_orgs/abrasco.png',
+        img: 'assets/img/projects/kdq.png',
         label: 'frontend',
         title: 'Titulo',
         description: 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively',
         link: 'link'
     },
     {
-        img: 'images/icon_orgs/abrasco.png',
+        img: 'assets/img/projects/kdq.png',
+        label: 'frontend',
+        title: 'Titulo',
+        description: 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively',
+        link: 'link'
+    },
+    {
+        img: 'assets/img/projects/kdq.png',
+        label: 'frontend',
+        title: 'Titulo',
+        description: 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively',
+        link: 'link'
+    },
+    {
+        img: 'assets/img/projects/kdq.png',
+        label: 'frontend',
+        title: 'Titulo',
+        description: 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively',
+        link: 'link'
+    },
+    {
+        img: 'assets/img/projects/kdq.png',
         label: 'frontend',
         title: 'Titulo',
         description: 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively',
@@ -19,7 +40,7 @@ window.onload = function() {
     let render = [];
     
     for(var i = 0; i < info.length; i++) {
-        render.push(drawCard('assets/img/projects/kdq.png', 'frontend', 'title', 'I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively', 'link' ))
+        render.push(drawCard(info[i].img, info[i].label, info[i].title, info[i].description, info[i].link ))
     }
 
     document.getElementById("cards").innerHTML = render.join('')
