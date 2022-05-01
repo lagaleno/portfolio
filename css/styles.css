@@ -31,13 +31,16 @@ body {
 footer {
     background-color:#D4563D !important;
     font-family: Medium;
-    position: absolute;
     width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 #intro {
     background-color: #9E3222;
     padding-bottom: 25px;
+    padding-top: 40px;
 }
 
 #projects {
@@ -48,9 +51,6 @@ footer {
     padding-top: 40px;
 }
 
-#menu {
-    margin-top: 20px
-}
 
 
 .name {

@@ -6,11 +6,11 @@ const footer = `
                 <div class="col offset-l2 s12">
                     <ul>
                         <li>
-                            <span style="color: #9E3222;">feito por:</span> 
+                            <span style="color: #9E3222;">dev/ui ux:</span> 
                             <a style="color: #FFA4A4" href="#!">@lagaleno</a>
                         </li>
                         <li>
-                            <span style="color: #9E3222;">id visual:</span> 
+                            <span style="color: #9E3222;">visual id:</span> 
                             <a style="color: #FFA4A4" href="#!">@isabelacortese</a>
                         </li>
                     </ul>
