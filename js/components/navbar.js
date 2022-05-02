@@ -9,7 +9,7 @@ const nav = `
 
                 <div class="links">
                     <a href="https://www.linkedin.com/in/lagaleno/" target='_blank'>linkedin</a> | 
-                    <a href="aboutme/aboutme.html" target='_blank'>resume</a> | 
+                    <a href="https://drive.google.com/file/d/13Wd2fouvI6JevvOx-M3C38czxPHLuchu/view?usp=sharing" target='_blank'>resume</a> | 
                     <a href="https://github.com/lagaleno" target='_blank'>github</a> | 
                     <a href='mailto: galeno@dcc.ufrj.br' target='_blank'>mail</a>
                 </div>
@@ -26,7 +26,7 @@ const nav = `
                     </div></li>
                     <li><a href="https://www.linkedin.com/in/lagaleno/" target='_blank'>linkedin</a></li>
                     <li><div class="divider"></div></li>
-                    <li><a href="aboutme/aboutme.html" target='_blank'>resume</a></li>
+                    <li><a href="https://drive.google.com/file/d/13Wd2fouvI6JevvOx-M3C38czxPHLuchu/view?usp=sharing" target='_blank'>resume</a></li>
                     <li><div class="divider"></div></li>
                     <li><a href="https://github.com/lagaleno" target='_blank'>github</a></li>
                     <li><div class="divider"></div></li>
