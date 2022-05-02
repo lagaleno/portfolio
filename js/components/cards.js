@@ -1,8 +1,8 @@
 const info = [
     {
         label: 'frontend',
-        title: 'Portifolio (2022)',
-        description: 'What you are seeing now is a v0 of my Portifolio, to start I wanted something really simple to code and that I would be able to showcase some projects of mine. I have plans to improve it, using React+Next and the Prismic CMS and also improve the UI as I prototyped in Figma.',
+        title: 'Portfolio (2022)',
+        description: 'What you are seeing now is a v0 of my Portfolio, to start I wanted something really simple to code and that I would be able to showcase some projects of mine. I have plans to improve it, using React+Next and the Prismic CMS and also improve the UI as I prototyped in Figma.',
         link: 'https://www.figma.com/proto/9eJbJFeLrxIASbq92vA6V3/porti?page-id=501%3A6&node-id=501%3A7&viewport=241%2C48%2C0.22&scaling=min-zoom&starting-point-node-id=501%3A7',
         link_btn: 'Check out Figma',
     },
